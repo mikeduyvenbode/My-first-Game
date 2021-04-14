@@ -4,7 +4,6 @@ Ball = {}
 function Ball:load()
    self.x = love.graphics.getWidth() / 2
    self.y = love.graphics.getHeight() / 2
-   self.img = love.graphics.newImage("assets/ball.png")
    self.width = 20
    self.height = 20
    self.speed = 400
