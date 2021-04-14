@@ -15,7 +15,7 @@
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
-## Special Thanks 🙇
+## SpecialThanks
 - [DevJeeper](https://www.youtube.com/user/DevJeeper) for making the amazing Tutorial!
 
 ## License 
