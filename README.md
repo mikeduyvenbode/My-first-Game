@@ -6,6 +6,7 @@
 ### Contents:
   - [Contribute](#contribute)
   - [Tutorial](#Tutorial)
+  - [Known Bugs](#Known Bugs)
   - [Special Thanks](#SpecialThanks)
   - [License](#license)
 
@@ -22,6 +23,10 @@ How to use the files to start te game
 
 ## SpecialThanks
 - [DevJeeper](https://www.youtube.com/user/DevJeeper) for making the amazing Tutorial!
+
+## Known Bugs
+- Score meter doest't work
+- AI sometimes doesn't know what to do
 
 ## License 
 
