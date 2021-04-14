@@ -14,6 +14,11 @@
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
+## Tutorial
+How to use the files to start te game
+- you need LÖVE free 2D Game Engine
+- start the files and you can play ; )
+
 ## SpecialThanks
 - [DevJeeper](https://www.youtube.com/user/DevJeeper) for making the amazing Tutorial!
 
