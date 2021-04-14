@@ -40,7 +40,7 @@ Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
 ## Special Thanks 🙇
-- [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
+- [DevJeeper](https://www.youtube.com/user/DevJeeper) for making the amazing site for this repo!
 
 ## License 
 
