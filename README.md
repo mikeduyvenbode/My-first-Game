@@ -4,7 +4,6 @@
 </div>
 
 ### Contents:
-  - [Categories](#categories)
   - [Contribute](#contribute)
   - [Special Thanks](#Special Thanks)
   - [License](#license)
