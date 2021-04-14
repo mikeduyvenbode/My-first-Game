@@ -5,7 +5,7 @@
 
 ### Contents:
   - [Contribute](#contribute)
-  - [Special Thanks](#Special Thanks)
+  - [Special Thanks](#SpecialThanks)
   - [License](#license)
 
 
