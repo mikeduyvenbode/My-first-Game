@@ -5,10 +5,8 @@
 
 ### Contents:
   - [Categories](#categories)
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
   - [Contribute](#contribute)
+  - [Special Thanks](#Special Thanks)
   - [License](#license)
 
 
