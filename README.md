@@ -6,7 +6,7 @@
 ### Contents:
   - [Contribute](#contribute)
   - [Tutorial](#Tutorial)
-  - [Known Bugs](#Known Bugs)
+  - [Known Bugs](#Known-Bugs)
   - [Special Thanks](#SpecialThanks)
   - [License](#license)
 
