@@ -7,7 +7,7 @@
   - [Contribute](#contribute)
   - [Tutorial](#Tutorial)
   - [Known Bugs](#Known-Bugs)
-  - [Special Thanks](#SpecialThanks)
+  - [Special Thanks](#Special-Thanks)
   - [License](#license)
 
 
@@ -21,7 +21,7 @@ How to use the files to start te game
 - you need LÖVE free 2D Game Engine
 - start the files and you can play ; )
 
-## SpecialThanks
+## Special Thanks
 - [DevJeeper](https://www.youtube.com/user/DevJeeper) for making the amazing Tutorial!
 
 ## Known Bugs
