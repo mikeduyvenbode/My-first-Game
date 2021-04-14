@@ -6,8 +6,8 @@
 ### Contents:
   - [Contribute](#contribute)
   - [Tutorial](#Tutorial)
-  - [Known Bugs](#Known-Bugs)
   - [Special Thanks](#Special-Thanks)
+  - [Known Bugs](#Known-Bugs)
   - [License](#license)
 
 
