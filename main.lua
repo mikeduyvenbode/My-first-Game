@@ -10,7 +10,6 @@ function love.load()
    AI:load()
 
    score = {player = 0, ai = 0}
-   font = love.graphics.newFont(30)
 end
 
 
